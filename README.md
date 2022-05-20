@@ -1,4 +1,8 @@
 ### Hi there 👋
+- You can hire me!
+- Currently building computers and spinning up side projects
+- Interested in: Serverless sites, Electronic music, Growth hacking
+- Pronouns: *(any)
 
 <!--
 **ethiapath/ethiapath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
