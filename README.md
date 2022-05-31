@@ -1,6 +1,6 @@
 ### Hi there 👋
-- You can hire me!
-- Currently building computers and spinning up side projects
+- Currenlty looking for positions.
+- Building computers and spinning up side projects at the moment
 - Interested in: Serverless sites, Electronic music, Growth hacking
 - Pronouns: *(any)
 
