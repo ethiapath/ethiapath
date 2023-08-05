@@ -2,7 +2,7 @@
 - Currenlty looking for positions.
 - Building computers and spinning up side projects at the moment
 - Interested in: Serverless sites, Electronic music, Growth hacking
-- Pronouns: *(any)
+- Pronouns: she/they
 
 <!--
 **ethiapath/ethiapath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
