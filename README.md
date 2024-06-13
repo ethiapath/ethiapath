@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Currenlty looking for positions.
 - Building computers and spinning up side projects at the moment
-- Interested in: Serverless sites, Electronic music, Growth hacking
+- Interested in: CSS, Digital Signal Processing, Growth hacking
 - Pronouns: she/they
 
 <!--
