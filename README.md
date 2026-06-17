@@ -1,9 +1,14 @@
-### Hi there 👋
-- Currenlty looking for positions.
 - Building computers and spinning up side projects at the moment
 - Interested in: CSS, Digital Signal Processing, Growth hacking
-- Pronouns: she/they
 
+I'm not afraid to dig into a gnarly javascript/typescript bug on the browser.
+
+Also can do some linux stuff
+
+nvim+tmux user
+
+
+Live by KISS. Die by the sword.
 <!--
 **ethiapath/ethiapath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
